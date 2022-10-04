@@ -46,8 +46,6 @@
   <br/>
   <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Agwe Bryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AgweBryan&show_icons=true&count_private=true&theme=radical&hide_border=false" /></a>
-   </p>
-   <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Agwe Bryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgweBryan&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false" /></a>
   </p>
   <br/>
