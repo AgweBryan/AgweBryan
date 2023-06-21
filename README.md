@@ -32,32 +32,6 @@
      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Agwe Bryan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AgweBryan&theme=radical&hide_border=false&stroke=0000"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Agwe Bryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AgweBryan&show_icons=true&count_private=true&theme=radical&hide_border=false" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Agwe Bryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgweBryan&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false" /></a>
-  </p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Agwe Bryan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AgweBryan&theme=redical&hide_border=false" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
@@ -69,8 +43,3 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AgweBryan">
-</a>
-<a href="https://github.com/AgweBryan?tab=followers"><img src="https://img.shields.io/github/followers/AgweBryan?label=Followers&style=social" alt="GitHub Badge"></a>
